@@ -1,58 +1,60 @@
-# hackathon-backend-rookie
-## :jigsaw: I. Tổng quan về Java Programming
-### 1. Giới thiệu về ngôn ngữ Java
-- Write One Run Anywhere
-- Là 1 ngôn ngữ hướng đối tượng
-- Bộ thu gom rác (Garbage Colector) của JVM tự động quản lý bộ nhớ
-### 2. Các thuật ngữ chính của Java
-- Bytecode:
-  * Là mã trung gian được tạo ra sau khi thực thi source code java
-  * Có cấu trúc tương tự như mã assembly
-  * Không thể được thực thi trực tiếp bởi máy tính
-  * ![image](https://github.com/thanhngan22/hackathon-backend-rookie/assets/93416202/b9b9409a-b9ea-423f-beb7-8230127e86c0)
+# 🪐 hackathon-backend-rookie
+## :jigsaw: [2023 Hackathon] Java Programming Entry Track - 1
+### ⭐ Level 1:
+- [ ] 1. Tổng quan về Java Programming
+- [ ] 2. Tìm hiểu về các loại biến và kiểu dữ liệu trong Java
 
-- JVM:
-  * Cốt lõi để thực hiện WORA
-  * Máy ảo để thực thi bytecode
-  * Có thể thực thi bytecode độc lập với hệ điều hành và phần cứng (OS, HW)
-  * ![image](https://github.com/thanhngan22/hackathon-backend-rookie/assets/93416202/94536042-1dda-4e70-bf9c-75e511dfaca7)
+### ⭐ Level 2:
+- [ ] 1. Tìm hiểu về các toán tử trong Java
+- [ ] 2. Tìm hiểu về các câu lệnh luồng điều khiển
 
-- JRE:
-  * Java Runtime Environment 
-  * Bao gồm các thư viện bổ sung cần thiết cho việc thực thi ứng dụng JVM + Java
-  * Đơn vị cơ bản để thực thi ứng dụng Java
-  * ![image](https://github.com/thanhngan22/hackathon-backend-rookie/assets/93416202/dde334ec-ebb1-4c01-821a-b3cf40152246)
+### ⭐ Level 3:
+- [ ] 1. Tìm hiểu về mảng (Array) và câu lệnh điều kiện
 
-- JDK:
-  * Java Development Kit
-  * Bao gồm công cụ phát triển JRE + Java
-  * Cần cài đặt JDK để phát triển Java
-  * ![image](https://github.com/thanhngan22/hackathon-backend-rookie/assets/93416202/48ebfcda-5ea3-408b-9c7d-89ac60b2dc94)
+### ⭐ Level 4:
+- [ ] 1. Tìm hiểu về lập trình hướng đối tượng
 
-### 3. Giới thiệu thực hành
-- JDK 11
-- Jetbrain IntelliJ Community Edition
-- IDE: eclipse (hơi nặng), visual studio code, IJ
+### ⭐ Level 5:
+- [ ] 1. Tìm hiểu khái niệm nâng cao về lập trình hướng đối tượng
 
-### 4. Hướng dẫn cài đặt JDK, IntelliJ
+### ⭐ Level 6:
+- [ ] 1. Tìm hiểu về Collection Framework
 
-### 5. Chương trình Java đầu tiên
+___
 
-### 6. Cú pháp và quy tắc Java cơ bản
-- Class:
-  * Là đơn vị cơ bản của chương trình Java
-  * Chương trình java được cấu thành từ 1 hoặc nhiều class
-  * Thường thì 1 class tương ứng với 1 file java
-    + Tên file và tên class phải giống nhau
-    + Tên class phải bắt đầu bằng chữ in hoa
-      
-- Method (main method)
-- Blocks and semicolons
-- Thụt đầu dòng
-- Standard Input/Output
+## :jigsaw: [2023 Hackathon] SQL Programming Entry Track - 2
+### ⭐ Level 1:
+- [ ] 1. Các khái niệm cơ bản về SQL
+- [ ] 2.
+- [ ] 3.
 
-### 7. Một số lỗi thường gặp
-- Lỗi chính tả
-- Lỗi viết hoa/thường
-- Thiếu dấu chấm phẩy
-  
+### ⭐ Level 2:
+- [ ] 1. 
+- [ ] 2.
+- [ ] 3. 
+
+### ⭐ Level 3:
+- [ ] 1.
+- [ ] 2.
+- [ ] 3.
+
+___
+
+## :jigsaw: [2023 Hackathon] Spring Boot Entry Track - 3
+### ⭐ Level 1:
+- [ ] 1. Tổng quan về phát triển web với Spring Boot
+
+### ⭐ Level 2:
+- [ ] 1. Khái niệm cơ bản về web và cấu trúc trang web
+
+### ⭐ Level 3:
+- [ ] 1. Spring Boot Controller
+- [ ] 2. Giao tiếp REST API với Spring Boot Controller
+- [ ] 3. Dịch vụ Spring Boot và cơ chế tiêm phụ thuộc
+- [ ] 4. Thiết kế dự án dịch vụ Web Todo List
+
+### ⭐ Level 4:
+- [ ] 1. Kết nối Spring Boot và Database
+- [ ] 2. Thiết kế dự án dịch vụ Web Blog
+
+___ 
