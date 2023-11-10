@@ -18,11 +18,37 @@
 - [x] 1. Tìm hiểu khái niệm nâng cao về lập trình hướng đối tượng
 
 ### ⭐ Level 6:
-- [ ] 1. Tìm hiểu về Collection Framework
+- [x] 1. Tìm hiểu về Collection Framework
+
+
+___ 
+
+## :jigsaw: [2023 Hackathon] SQL Programming Track - 2
+### ⭐ Level 1:
+- [x] 1. The basic concepts of SQL
+- [x] 2. Getting your first SQL experience
+- [x] 3. Level 1 Assessment
+
+### ⭐ Level 2:
+- [x] 1. Filtering data based on one certain condition
+- [x] 2. Filtering data based on multiple conditions
+- [x] 3. Level 2 Assessment
+
+### ⭐ Level 3:
+- [x] 1. Advanced techniques for filtering data
+- [x] 2. Processing the retrieved data result 
+- [x] 3. Level 3 Assessment
+
+### ⭐ Level 3:
+- [x] 1. Diverse Aggregation methods for exploring data
+- [x] 2. Aggregation of grouped data for exploring data
+- [x] 3. Level 4 Assessment
+___
+
 
 ___
 
-## :jigsaw: [2023 Hackathon] Spring Boot Entry Track - 2
+## :jigsaw: [2023 Hackathon] Spring Boot Entry Track - 3
 ### ⭐ Level 1:
 - [x] 1. Tổng quan về phát triển web với Spring Boot
 
@@ -38,31 +64,6 @@ ___
 ### ⭐ Level 4:
 - [ ] 1. Kết nối Spring Boot và Database
 - [ ] 2. Thiết kế dự án dịch vụ Web Blog
-
-___ 
-
-## :jigsaw: [2023 Hackathon] SQL Programming Track
-### ⭐ Level 1:
-- [ ] 1. The basic concepts of SQL
-- [ ] 2. Getting your first SQL experience
-- [ ] 3. Level 1 Assessment
-
-### ⭐ Level 2:
-- [ ] 1. Filtering data based on one certain condition
-- [ ] 2. Filtering data based on multiple conditions
-- [ ] 3. Level 2 Assessment
-
-### ⭐ Level 3:
-- [ ] 1. Advanced techniques for filtering data
-- [ ] 2. Processing the retrieved data result 
-- [ ] 3. Level 3 Assessment
-
-### ⭐ Level 3:
-- [ ] 1. Diverse Aggregation methods for exploring data
-- [ ] 2. Aggregation of grouped data for exploring data
-- [ ] 3. Level 4 Assessment
-___
-
 
 
 ___
@@ -109,7 +110,6 @@ ___
 - [ ] 1. How to summarize data in pandas
 - [ ] 2. How to clean data in pandas
 
-### ⭐ Level 4:
 
 ___
 
@@ -140,7 +140,7 @@ ___
 - [ ] 2. Level 6 Assessment
 
 
-### ⭐ Level 1:
+### ⭐ Level 7:
 - [ ] 1. Classification Analysis with TensorFlow's MLP Model
 - [ ] 2. Level 7 Assessment
 ___
